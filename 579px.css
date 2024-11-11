@@ -1,0 +1,440 @@
+@media only screen and (max-width:579px) {
+  .section-1{
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    gap: 10px;
+  }
+  .section-1-text1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .section-1-text1 h1{
+    font-size: 20px;
+    margin: 0;
+  }
+  .section-1-text1 h2{  
+    font-size: 20px;
+    margin: 0;
+  }
+  .section-1-text2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .section-1-text2 h3{
+    font-size: 15px;
+    margin: 0;
+  } 
+  .section-1-text2 h4{
+    font-size: 15px;
+    margin: 0;
+  }
+
+  .section-1 button{
+    padding: 5px 15px;
+    font-size: 12px;
+    margin: 0;
+    margin-top: 40px;
+    border-radius: 3px;
+  }
+  .section-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .section-2-class1{
+    width: 50%;
+    height: 150px;
+    border: 2px solid gray;
+    margin-left: 50px;
+
+  }
+  .section-2-class1 span{
+    font-size: 40px;
+  }
+  .section-2-class2{
+    width: 50%;
+  }
+  .section-2-class2 h6{
+    font-size: 10px;
+  }
+  .section-2-class2 h2{
+    font-size: 25px;
+  }
+
+.section-2-class3{
+  display: none;
+}
+  
+.section-3{
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.section-3-card1{
+  gap: 130px;
+  height: 260px;
+  width: 70%;
+  border-radius: 20px
+}
+.section-3-card1 h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+.section-3-card1 li{
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.section-3-card2{
+  gap: 130px;
+  height: 260px;
+  width: 70%; 
+   border-radius: 20px;
+   background-position: center;
+}
+.section-3-card2 h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+.section-3-card2 li{
+  margin-top: 25px;
+  margin-bottom: -30px;
+  font-weight: 500;
+}
+.section-3-card3{
+  gap: 130px;
+  height: 260px;
+  width: 70%;
+  border-radius: 20px;
+  background-position: center;
+}
+.section-3-card3 h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+.section-3-card3 li{
+  margin-top: 20px;
+  font-weight: 500;
+}
+.section-3-card4{
+  gap: 130px;
+  height: 260px;
+  width: 70%;
+  border-radius: 20px;
+  background-position: center;
+}
+.section-3-card4 h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+.section-3-card4 li{
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+/* only text */
+.only-text{
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+
+}
+.only-text h6{
+  font-size: 15px;
+  margin: 0;
+}
+.only-text h3{
+  font-size: 25px;
+  margin: 0;
+}
+
+
+/* section 4 */
+
+.section-4{
+  height: 200px;
+  
+}
+.section-4-class1{
+  height: auto;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-4-class1 img{
+  width: 50px;
+  height: 50px;
+}
+.section-4-class1 h3{
+  font-size: 15px;
+}
+
+.section-4-class2{
+  height: auto;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-4-class2 img{
+  width: 50px;
+  border: 2px solid white;
+  height: 50px;
+}
+.section-4-class2 h3{
+  font-size: 13px;
+}
+.section-4-class3{
+  height: auto;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-4-class3 img{
+  width: 50px;
+  height: 50px;
+}
+.section-4-class3 h3{
+  font-size: 13px;
+}
+.section-4-class4{
+  height: auto;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-4-class4 img{
+  width: 50px;
+  height: 50px;
+}
+.section-4-class4 h3{
+  font-size: 13px;
+}
+
+/* section 5 */
+
+.section-5{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.section-5 h6{
+  font-size: 12px;
+  margin: 0;
+}
+.section-5 h2{
+  font-size: 30px;
+  margin: 0;
+}
+.section-5 h5{
+  font-size: 8px;
+  margin: 0;
+}
+.section-5 button{
+  margin: 0;
+}
+
+/* text */
+.Text h4{
+  font-size: 20px;
+}
+
+/* section 6 */
+
+.section-6{
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+.section-6 h6{
+  font-size: 12px;
+}
+.section-6 h3{
+  font-size: 25px;
+}
+.section-6 h4{
+  font-size: 15px;
+}
+.section-6 h5{
+  font-size: 15px;
+  margin-top: -8px;
+}
+
+.section-6-image1{
+  flex-wrap: wrap;
+  height: auto;
+  width: 100%;
+  margin: 0;
+  gap: 25px;
+}
+.section-6-image1 img{
+  width: 70%;
+  height: 260px;
+}
+  .section-6-image2{
+    flex-wrap: wrap;
+    height: auto;
+    width: 100%;
+    gap: 25px;
+    margin: 0;
+  }
+  .section-6-image2 img{
+    width: 70%;
+    height: 260px;
+    
+  
+}
+/* section 7 */
+
+.section-7{
+  height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.section-7-image{
+  width: 45%;
+  height: 220px;
+
+}
+.section-7-image img{
+  width: 100%;
+  height: 220px;
+
+}
+.section-7-text{
+  height: auto;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 20px;
+}
+.section-7-text img{
+  width: 60px;
+  height: 60px;
+  margin: 0;
+}
+.section-7-text h2{
+  font-size: 20px;
+}
+.section-7-text h5{
+  display: none;
+}
+.section-7-text button{
+  padding: 5px 20px;
+  font-size: 12px;
+}
+.section-8{
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-8 h6{
+  font-size: 12px;
+}
+
+.section-8 h3{
+  font-size: 25px;
+}
+  
+.section-8-classes{
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.section-8-class1{
+  width: 90%;
+  gap: 12px;
+}
+.section-8-class2{
+  width: 90%;
+  gap: 12px;
+}
+
+/* section 9 */
+.section-9{
+  height: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-9-text{
+  gap: 30px;
+  margin: 0;
+}
+.section-9-text h6{
+  font-size: 12px;
+}
+.section-9-text h2{
+  font-size: 25px;
+}
+.section-9-text h5{
+  display: none;
+}
+
+/* section 10 */
+.section-10{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-10-num{
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.section-10-num span{
+  font-size: 40px;
+}
+.section-10-text{
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* section 11 */
+.section-11{
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-11 h6{
+  font-size: 12px;
+}
+.section-11 h2{
+  font-size: 30px;
+}
+.section-11 h3{
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+
+
+}
